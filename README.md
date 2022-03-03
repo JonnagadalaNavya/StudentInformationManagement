@@ -6,7 +6,7 @@
 * [Illustrations](#illustrations)
 
 ## General info
-This project is simple CRUD operations on student details through command line.
+This project is a simple CRUD operations performed on student details through command line.
 	
 ## Technologies
 Project is created with:
@@ -19,3 +19,4 @@ Project is created with:
 To run this project, use eclipse console :
   >run StudentInfoManagement.java file 
 ## Illustrations
+![App flow](./images/app.jpg)
